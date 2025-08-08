@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aryantext/static/css/main.13c387ed.css",
+    "main.js": "/Aryantext/static/js/main.9ecfd6e4.js",
+    "static/js/453.96453769.chunk.js": "/Aryantext/static/js/453.96453769.chunk.js",
+    "index.html": "/Aryantext/index.html",
+    "main.13c387ed.css.map": "/Aryantext/static/css/main.13c387ed.css.map",
+    "main.9ecfd6e4.js.map": "/Aryantext/static/js/main.9ecfd6e4.js.map",
+    "453.96453769.chunk.js.map": "/Aryantext/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c387ed.css",
+    "static/js/main.9ecfd6e4.js"
+  ]
+}
